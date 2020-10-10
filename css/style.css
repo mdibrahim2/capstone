@@ -406,6 +406,10 @@ width: 100%;
 
   min-height: 200px;
 }
+.introduction {
+  width: 90%;
+  margin-left: 10px;
+}
 .container{
 width:80%;
 margin-right: 10px;
@@ -431,8 +435,8 @@ display: none;
 .mdi-img{
 
   margin-left: 2px;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 300px;
   align-items: center;
 
 }
@@ -473,7 +477,7 @@ section{
   background-color: #2196F3;
 }
 
-#container section  a{
+#container section  .a{
   margin-left: 150px;
   text-align: center;
   text-decoration: none;
@@ -482,7 +486,7 @@ section{
  
 
 }
-#container section  a:hover{
+#container section  .a:hover{
   
   text-decoration: underline;
 }
